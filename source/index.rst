@@ -13,7 +13,7 @@
 
 .. toctree:: 
    :maxdepth: 2
-   :caption: Index
+   :caption: 首页
 
 
 .. 索引标题以及该标题下的三个索引和搜索链接
