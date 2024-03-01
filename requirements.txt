@@ -1,5 +1,5 @@
 sphinx==7.2.6  
 furo==2024.1.29
 sphinx_markdown_tables==0.0.17
-recommonmark==0.7.1
 sphinx_copybutton==0.5.2
+myst_parser==2.0.0
