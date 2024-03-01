@@ -1,2 +1,4 @@
 sphinx==7.2.6  
 sphinx-press-theme==0.8.0
+sphinx_markdown_tables==3.5.2
+recommonmark==3.4

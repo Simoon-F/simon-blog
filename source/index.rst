@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-欢迎来到 read-the-docs-demo's 文档!
+Simon 的博客
 ==================================
 
 .. 文档目录树结构的描述，树状结构
@@ -13,7 +13,9 @@
 
 .. toctree:: 
    :maxdepth: 2
-   :caption: 首页
+   :caption: Contents:
+
+   about
 
 
 .. 索引标题以及该标题下的三个索引和搜索链接
