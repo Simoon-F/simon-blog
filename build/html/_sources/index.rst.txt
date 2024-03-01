@@ -3,14 +3,20 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to read-the-docs-demo's documentation!
-==============================================
+欢迎来到 read-the-docs-demo's 文档!
+==================================
 
-.. toctree::
+.. 文档目录树结构的描述，树状结构
+   toctree
+   :maxdepth: 2 表示目录的级数（页面最多显示两级）
+   :caption: Index: 用于指定目录标题文本
+
+.. toctree:: 
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Index
 
 
+.. 索引标题以及该标题下的三个索引和搜索链接
 
 Indices and tables
 ==================
