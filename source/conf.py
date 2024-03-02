@@ -8,7 +8,7 @@
 from typing import Any, Dict
 
 
-project = 'Simon的博客'
+project = 'Simon Blog'
 copyright = '2024, simon'
 author = 'simon'
 release = '0.0.1'
@@ -31,7 +31,7 @@ exclude_patterns = []
 
 language = "zh_Cn"
 html_theme = 'furo'
-html_title = "Simon"
+html_title = "Simon Blog"
 html_static_path = ['_static']
 
 html_theme_options: Dict[str, Any] = {
@@ -47,7 +47,7 @@ html_theme_options: Dict[str, Any] = {
             "class": "",
         },
     ],
-    "source_repository": "https://github.com/Simoon-F/read-the-docs-demo",
+    "source_repository": "https://github.com/Simoon-F/simon-blog",
     "source_branch": "master",
     "source_directory": "/",
 }
