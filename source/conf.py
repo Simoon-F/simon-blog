@@ -48,6 +48,6 @@ html_theme_options: Dict[str, Any] = {
         },
     ],
     "source_repository": "https://github.com/Simoon-F/simon-blog",
-    "source_branch": "master/source",
-    "source_directory": "/",
+    "source_branch": "master",
+    "source_directory": "/source",
 }
