@@ -1,4 +1,4 @@
-# Simon 的博客
+# Simon's Blog
 
 ```{toctree}
 :hidden:
@@ -7,12 +7,12 @@ home
 ```
 
 ```{toctree}
-:caption: 2023年
+:caption: 2023
 :hidden:
 
 technology-shares/2023/index
 ```
 
-# 描述
+# describe
 
-> 随便写点什么
+> Just write something

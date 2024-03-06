@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Simon Blog \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-06 18:23+0800\n"
+"POT-Creation-Date: 2024-03-06 18:42+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_CN\n"
@@ -20,12 +20,18 @@ msgstr ""
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../source/technology-shares/2023/index.md:1
-#: d3b11d5b4db842a9ae857f41016aefa6
-msgid "学习记录"
-msgstr ""
+#: ebe4c7af723a41cabf9d5ecf24e10159
+msgid "Learning records"
+msgstr "学习记录"
 
 #: ../../source/technology-shares/2023/index.md:11
-#: 54841184a4b54a37bd5476279a104c15
-msgid "详情"
-msgstr ""
+#: 53fdbb0c6bf8477d87a6745ccc1da9a8
+msgid "Details"
+msgstr "详情"
+
+#~ msgid "学习记录"
+#~ msgstr ""
+
+#~ msgid "详情"
+#~ msgstr ""
 

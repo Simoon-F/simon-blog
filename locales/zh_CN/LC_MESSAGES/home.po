@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Simon Blog \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-06 18:23+0800\n"
+"POT-Creation-Date: 2024-03-06 18:42+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_CN\n"
@@ -19,11 +19,17 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.14.0\n"
 
-#: ../../source/home.md:1 e64ae9fd83ed46438deb3419c1c1dbc7
-msgid "简介"
-msgstr ""
+#: ../../source/home.md:1 9b2696e9cff5452f9c1693b58c5f1f21
+msgid "Introduction"
+msgstr "简介"
 
-#: ../../source/home.md:4 679caa5f16114d56ac6145987048315b
-msgid "这是我记录技术的博客"
-msgstr ""
+#: ../../source/home.md:4 495cecc3768549428e081630b69b71ff
+msgid "This is my blog recording technology"
+msgstr "这是我记录技术的博客"
+
+#~ msgid "简介"
+#~ msgstr ""
+
+#~ msgid "这是我记录技术的博客"
+#~ msgstr ""
 

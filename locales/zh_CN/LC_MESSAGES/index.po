@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Simon Blog \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-06 18:23+0800\n"
+"POT-Creation-Date: 2024-03-06 18:44+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_CN\n"
@@ -20,18 +20,34 @@ msgstr ""
 "Generated-By: Babel 2.14.0\n"
 
 #: ../../source/index.md:9
-msgid "2023年"
-msgstr "666"
+#, fuzzy
+msgid "2023"
+msgstr "2023年"
 
-#: ../../source/index.md:1 c639008b35734a45ae1bf0317a4b8781
-msgid "Simon 的博客"
-msgstr "22"
+#: ../../source/index.md:1 0cc9ce577e81410f99da620d47da9b88
+msgid "Simon's Blog"
+msgstr "Simon的博客"
 
-#: ../../source/index.md:16 971daa7878f14837989ad8aaa0f30d64
-msgid "描述"
-msgstr "33"
+#: ../../source/index.md:16 a964249728b64294a03d37f46e3a3f67
+msgid "describe"
+msgstr "描述"
 
-#: ../../source/index.md:18 39818ccf5e7a445e8bb487616d9fd94b
-msgid "随便写点什么"
-msgstr "44"
+#: ../../source/index.md:18 b48130a1d3764d91a924897f05e038b5
+msgid "Just write something"
+msgstr "随便写点什么"
+
+#~ msgid "Simon 的博客"
+#~ msgstr "22"
+
+#~ msgid "描述"
+#~ msgstr "33"
+
+#~ msgid "随便写点什么"
+#~ msgstr "44"
+
+#~ msgid "describe"
+#~ msgstr ""
+
+#~ msgid "describe6666"
+#~ msgstr ""
 

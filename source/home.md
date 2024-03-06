@@ -1,4 +1,4 @@
-# 简介
+# Introduction
 
 
-> 这是我记录技术的博客
+> This is my blog recording technology

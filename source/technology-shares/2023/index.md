@@ -1,4 +1,4 @@
-# 学习记录
+# Learning records
 
 
 ```{toctree}
@@ -8,4 +8,4 @@
 ```
 
 
-## 详情
+## Details
