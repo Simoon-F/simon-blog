@@ -1,0 +1,37 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, simon
+# This file is distributed under the same license as the Simon Blog package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Simon Blog \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-06 18:23+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../source/index.md:9
+msgid "2023年"
+msgstr "666"
+
+#: ../../source/index.md:1 c639008b35734a45ae1bf0317a4b8781
+msgid "Simon 的博客"
+msgstr "22"
+
+#: ../../source/index.md:16 971daa7878f14837989ad8aaa0f30d64
+msgid "描述"
+msgstr "33"
+
+#: ../../source/index.md:18 39818ccf5e7a445e8bb487616d9fd94b
+msgid "随便写点什么"
+msgstr "44"
+

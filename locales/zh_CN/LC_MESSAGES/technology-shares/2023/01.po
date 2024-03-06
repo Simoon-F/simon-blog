@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, simon
+# This file is distributed under the same license as the Simon Blog package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Simon Blog \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-06 18:23+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: ../../source/technology-shares/2023/01.md:1 168897b1a9b0497593e32d8e7efe44f2
+msgid "浅谈 Babel"
+msgstr ""
+
+#: ../../source/technology-shares/2023/01.md:3 065bbb0c20b2430395c1133f0e4c0ab4
+msgid "Babel 是什么 ？"
+msgstr ""
+
+#: ../../source/technology-shares/2023/01.md:6 2c6351d9aacc4fd083baec46edf7c9f3
+msgid "`Babel` 就是一个 `JavaScript编译器` 或者也可以说是一个从**源码到目标代码**的`编译转换器`。"
+msgstr ""
+
+#: ../../source/technology-shares/2023/01.md:8 30562593b6514456babdd3b59415d22a
+msgid ""
+"![](https://raw.githubusercontent.com/Simoon-F/simon-"
+"blog/master/_static/2023/01/babel_image_1.png)"
+msgstr ""
+
+#: ../../source/technology-shares/2023/01.md:10
+#: 37a84a72616a4b79bb5cb43b2cff20ef
+msgid "可以看这个图，`Babel` 分为三个阶段，分别是 `parse`（解析）, `transform`（转换）和 `generate` （生成）."
+msgstr ""
+
+#: ../../source/technology-shares/2023/01.md:12
+#: f10c6874057340fea9c33e5ee7b822ba
+msgid ""
+"首先是从最左边`源码`这里开始，也就是我们日常编写的代码，会经过 `parse` 解析，这个`parse`过程会对我们的代码进行 `词法分析` 和"
+" `语法分析` 等一些解析操作最后生成一个叫 `AST` 的抽象语法树。"
+msgstr ""
+
+#: ../../source/technology-shares/2023/01.md:14
+#: 429eda0d93f04935a7049a24ca03ada4
+msgid "然后来到 `transform` 这里，将解析后的内容按照我们指定的规则进行处理转换成新的 `AST` 抽象语法树。"
+msgstr ""
+
+#: ../../source/technology-shares/2023/01.md:16
+#: e0f68804e890406f8cec22755a920d83
+msgid "然后在来到 `generate` 这里将我们转换后的 `AST` 抽象语法树去生成新的代码，也就是目标代码。"
+msgstr ""
+
+#: ../../source/technology-shares/2023/01.md:18
+#: fb22cdcdb42741768e131f79669ece6f
+msgid "这些就是 `Babel` 的大概执行流程。"
+msgstr ""
+

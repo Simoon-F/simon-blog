@@ -29,10 +29,13 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-language = "zh_Cn"
+language = "en"
 html_theme = 'furo'
 html_title = "Simon Blog"
 html_static_path = ['_static']
+locale_dirs = ['../locales/']  # 设置本地化数据目录
+gettext_compact = False  # optional.
+gettext_uuid = True  # optional.
 
 html_theme_options: Dict[str, Any] = {
     "footer_icons": [
