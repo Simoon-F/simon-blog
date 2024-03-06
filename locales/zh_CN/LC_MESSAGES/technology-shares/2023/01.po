@@ -34,11 +34,9 @@ msgid ""
 msgstr "`Babel` 就是一个 `JavaScript编译器` 或者也可以说是一个从**源码到目标代码**的`编译转换器`。"
 
 #: ../../source/technology-shares/2023/01.md:8 7ba6edbfda854902b666989ed7e55f51
-msgid ""
-"![](https://raw.githubusercontent.com/Simoon-F/simon-"
+msgid "![](https://raw.githubusercontent.com/Simoon-F/simon-"
 "blog/master/_static/2023/01/babel_image_1.png)"
-msgstr ""
-"![](https://raw.githubusercontent.com/Simoon-F/simon-"
+msgstr "![](https://raw.githubusercontent.com/Simoon-F/simon-"
 "blog/master/_static/2023/01/babel_image_1.png)"
 
 #: ../../source/technology-shares/2023/01.md:10
